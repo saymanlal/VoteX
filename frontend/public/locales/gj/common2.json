@@ -1,0 +1,10 @@
+{
+    "admin": "એડમિન",
+    "enter_admin_code": "એડમિન કોડ દાખલ કરો:",
+    "enter_unique_id": "તમારો યુનિક ID દાખલ કરો",
+    "verify": "ચકાસો",
+    "invalid_admin": "❌ અમાન્ય એડમિન ID",
+    "error_verifying": "❌ એડમિન ID ચકાસવામાં ભૂલ",
+    "welcome_admin": "✅ સ્વાગત છે {{name}} (પ્રવેશ {{access}})"
+  }
+  

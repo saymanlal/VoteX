@@ -1,0 +1,10 @@
+{
+    "admin": "Admin",
+    "enter_admin_code": "Enter admin code:",
+    "enter_unique_id": "Enter your unique ID",
+    "verify": "Verify",
+    "invalid_admin": "❌ Invalid admin ID",
+    "error_verifying": "❌ Error verifying admin ID",
+    "welcome_admin": "✅ Welcome {{name}} (access {{access}})"
+  }
+  

@@ -1,0 +1,28 @@
+[
+    {
+      "inputs": [
+        { "internalType": "string", "name": "voterId", "type": "string" },
+        { "internalType": "string", "name": "state", "type": "string" },
+        { "internalType": "string", "name": "partyName", "type": "string" }
+      ],
+      "name": "vote",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [{ "internalType": "string", "name": "partyName", "type": "string" }],
+      "name": "getVoteCount",
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [{ "internalType": "string", "name": "voterId", "type": "string" }],
+      "name": "hasVoterVoted",
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+  

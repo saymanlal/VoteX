@@ -1,0 +1,11 @@
+{
+  "[project]/src/components/ui/LocationMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/ui/LocationMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_158915f4._.js",
+      "static/chunks/src_components_ui_LocationMap_tsx_86818402._.js",
+      "static/chunks/node_modules_leaflet_dist_leaflet_88e19fd3.css",
+      "static/chunks/src_components_ui_LocationMap_tsx_740d0d58._.js"
+    ]
+  }
+}

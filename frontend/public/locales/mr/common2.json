@@ -1,0 +1,10 @@
+{
+    "admin": "प्रशासक",
+    "enter_admin_code": "प्रशासक कोड प्रविष्ट करा:",
+    "enter_unique_id": "तुमचा युनिक ID प्रविष्ट करा",
+    "verify": "सत्यापित करा",
+    "invalid_admin": "❌ अवैध प्रशासक ID",
+    "error_verifying": "❌ प्रशासक ID सत्यापित करताना त्रुटी",
+    "welcome_admin": "✅ स्वागत आहे {{name}} (प्रवेश {{access}})"
+  }
+  
